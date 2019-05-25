@@ -1,11 +1,10 @@
 #include<iostream>
 #include<string>
-
-
+,
 int main()
 {
 string a;
-cin>>a;//Enter name
+cin>>a;//Введите имя
 cout<<"Hello world "<<a;
 return 0;
 }
