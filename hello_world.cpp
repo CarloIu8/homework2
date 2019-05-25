@@ -1,9 +1,12 @@
 #include<iostream>
+#include<string>
 
 using namespace std;
 
 int main()
 {
-cout<<"Hello world";
+string a;
+cin>>a;
+cout<<"Hello world "<<a;
 return 0;
 }
